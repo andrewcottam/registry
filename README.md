@@ -1,0 +1,2 @@
+# registry
+Various global settings
