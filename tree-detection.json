@@ -1,0 +1,21 @@
+{
+    "WMTS_SOURCES": [
+        {
+            "Name": "Maxar WorldView3 East Java",
+            "longitude": 112.84350452926209,
+            "latitude": -8.054735059174224,
+            "zoom": 18,
+            "endpoint": "https://tiles.openaerialmap.org/61b94e69b26de1000596d605/1/61b94e69b26de1000596d607/{z}/{x}/{y}",
+            "copyright": "Imagery from OpenAerialMap. Maxar Products. WorldView2 © 2021 Maxar Technologies."
+        },
+        {
+            "Name": "Maxar WorldView3 Northern Ghana",
+            "longitude": -2.49545,
+            "latitude": 10.05035,
+            "zoom": 18,
+            "endpoint": "https://tiles.openaerialmap.org/5eb8f39580832d0007336777/0/5eb8f39580832d0007336778/{z}/{x}/{y}",
+            "copyright": "Imagery from OpenAerialMap. Maxar Products. WorldView2 © 2021 Maxar Technologies."
+        },        
+        -2.5196,10.0361,-2.4713,10.0646
+    ]
+}

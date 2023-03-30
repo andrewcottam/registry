@@ -1,2 +1,2 @@
 # registry
-Various global settings
+Central registry containing configuration information across all apps and services
